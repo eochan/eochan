@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 **AI Engineer** based in Asan, Korea.
-- 🌱 I’m currently learning **Generative AI, 3D Reconstruction from 2D Images, Representation Learning**.
+- 🌱 Ph.D. Researcher in Artificial Intelligence & 3D Computer Vision specializing in generative modeling, diffusion-based architectures, and 3D geometry reconstruction. Experienced in designing deep learning pipelines for high-fidelity 3D asset generation and structural alignment, with a strong focus on algorithmic efficiency and practical scalability across visual domains.
 - 💬 Ask me about **Python, Computer Vision and ..**.
 - 📫 How to reach me: **[lych19960618@gmail.com]**
 
